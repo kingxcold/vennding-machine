@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1542484264 source:f:\main\c++ proj\vendinng machine\main.cpp
+	<iostream>
+	"food_item.h"
+	"showing.h"
+
+1542483802 source:f:\main\c++ proj\vendinng machine\showing.cpp
+	"showing.h"
+	<iostream>
+
+1542483802 f:\main\c++ proj\vendinng machine\showing.h
+
+1542484181 source:f:\main\c++ proj\vendinng machine\food_item.cpp
+	"food_item.h"
+	<iostream>
+
+1542484150 f:\main\c++ proj\vendinng machine\food_item.h
+
